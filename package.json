@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/davydkina-polina/Gulp-lesson/issues"
   },
-  "homepage": "https://github.com/davydkina-polina/Gulp-lesson#readme"
+  "homepage": "https://github.com/davydkina-polina/Gulp-lesson#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
 }
